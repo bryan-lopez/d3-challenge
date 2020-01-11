@@ -29,3 +29,15 @@ body {
   margin: 0;
   font-size: 16px;
 }
+
+text.unselected {
+  font-size: 15px;
+  font-style: normal;
+  font-family: sans-serif;
+}
+
+text.selected {
+  font-size: 15px;
+  font-style: bold;
+  font-family: sans-serif;
+}
